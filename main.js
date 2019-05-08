@@ -6,7 +6,7 @@ var platforms;
 var cursors;
 var diamond;
 var stars;
-var score = 0;
+var score = 12;
 var scoreText;
 var hitPlatform;
 
