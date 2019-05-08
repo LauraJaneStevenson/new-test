@@ -24,7 +24,7 @@ Baddie.prototype.update = function(){
 
 	  if(this.body.position.x <= -150){
         
-        this.body.position.x = game.width+200;
+        this.body.position.x = game.width+500;
         this.body.position.y = game.rnd.integerInRange(0,game.height);
 
     }
