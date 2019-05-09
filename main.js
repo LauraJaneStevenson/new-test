@@ -1,6 +1,6 @@
 var game = new Phaser.Game(600,600, Phaser.AUTO);
 //var cursors; 
-var player=50;
+var player=70;
 var bad;
 var platforms;
 var cursors;
