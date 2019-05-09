@@ -1,12 +1,12 @@
 var game = new Phaser.Game(600,600, Phaser.AUTO);
 //var cursors; 
-var player=50;
+var player;
 var bad;
 var platforms;
 var cursors;
 var diamond;
 var stars;
-//var score = 0;
+var score = 0;
 var scoreText;
 var hitPlatform;
 
